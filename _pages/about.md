@@ -4,26 +4,39 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+# About Feature Health Inc  
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+At **Feature Health**, we help extract valuable insights from health data using **data science and machine learning**. Our mission is to help organizations make informed, data-driven decisions that improve health outcomes. Whether you need **advanced analytics, strategic guidance, or full-service data science support**, we tailor our expertise to meet your needs.  
 
-## Features
+We work with a diverse range of **health-related data**, including but not limited to:  
+- **Electronic health records**  
+- **Medical claims**  
+- **Genomic data**
+- **Time series**
+- **Text and natural language data**  
+- **Geospatial and network data**  
+- **Census and population health data**  
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+## Who We Help  
+- **Early-stage health startups** looking for end-to-end data science support before building an in-house data science team 
+- **Organizations with existing datasets** seeking actionable insights  
+- **Decision-makers** needing strategic advice on health data applications  
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+We offer **in-person support** to clients in the **San Francisco Bay Area** and **remote consulting** worldwide.  
+
+## About Lucy Li, PhD  
+
+**Feature Health Inc** was founded in 2023 by **Lucy Li, PhD**, a data scientist with extensive experience in **public health, technology, and research**. Before launching Feature Health Inc, Lucy worked across **academic, non-profit, and technology sectors**, tackling complex health data challenges.  
+
+Her expertise spans:  
+- **Predictive modeling & machine learning**
+- **Clinical data analysis**  
+- **Health policy & population analytics**
+
+Lucy’s research has been published in leading journals—see her work [here](https://scholar.google.com/citations?user=WJdo42cAAAAJ&hl=en&oi=sra).  
+
+## Let's Work Together  
+
+If you're looking for **data-driven solutions in a health-related field**, let’s connect! Whether you're exploring a new dataset, developing a data strategy, or need hands-on analytics, **Feature Health Inc** is here to help.  
+
+**[Get in touch](mailto:lucy@feature.health) today** to discuss your data science needs.  
