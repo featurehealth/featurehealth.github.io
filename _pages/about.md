@@ -24,7 +24,7 @@ We focus on providing strategic guidance rather than just implementation. Our se
 * Strategic advising for data science teams and projects
 * Technical due diligence and assessment
 
-## About our founder
+## About Our Founder
 
 Feature Health Inc was founded in 2023 by Lucy Li, PhD, a data scientist with extensive experience in biotech, healthcare and research. Before launching Feature Health Inc, Lucy worked across academic, non-profit, and technology sectors, tackling complex health data challenges.
 
