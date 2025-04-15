@@ -17,12 +17,14 @@ We offer remote consulting across the US. In-person meetings are available upon 
 
 ## Our Services
 
-We focus on providing strategic guidance rather than just implementation. Our services include:
-* Data strategy development and roadmapping
-* Technical architecture review and recommendations
-* Analytics approach validation and optimization
-* Strategic advising for data science teams and projects
-* Technical due diligence and assessment
+We specialize in helping healthcare organizations translate data into meaningful impact. Our work goes beyond implementation—we provide strategic guidance to ensure your data efforts are clinically relevant, analytically sound, and operationally feasible. 
+
+Our services include:
+
+- Health data **strategy development and roadmapping** to build a minimum viable product. 
+- **Technical architecture review** with a focus on healthcare data systems and interoperability.  
+- **Validation and optimization** of analytics approaches for use cases such as risk stratification, treatment effectiveness, and population health.
+- **Identifying and prioritizing data sources** such as EHR, claims, and other clinical data, based on project goals, availability, and technical or regulatory constraints.
 
 ## About Our Founder
 
