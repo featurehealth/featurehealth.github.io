@@ -44,7 +44,7 @@ Get in touch today to discuss your strategic data needs.
 
 <div class="container" id="contact">
   <h1>Get in touch</h1>
-  <form target="_blank" action="https://formsubmit.co/4f001a9f0be62a0a7683124fc0085999" method="POST" style="width: 100%; max-width: 800px; margin: 0 auto;">
+  <form target="_blank" action="https://formsubmit.co/4f001a9f0be62a0a7683124fc0085999" method="POST" style="width: 100%; max-width: 1600px; margin: 0 auto;">
     <div class="form-group">
       <div class="form-row">
         <div class="col">
