@@ -38,5 +38,25 @@ Lucy's research has been published in leading journals — see her work [here](h
 ## Let's Work Together
 If you're looking for **strategic data guidance in a health-related field**, let's connect! Whether you're exploring new data opportunities, developing a comprehensive data strategy, or need expert oversight, Feature Health Inc is here to help.
 
-[Get in touch](mailto:lucy@feature.health) today to discuss your strategic data needs.
+Get in touch today to discuss your strategic data needs.
+
+<div class="container">
+  <h1>Get in touch</h1>
+  <form target="_blank" action="https://formsubmit.co/4f001a9f0be62a0a7683124fc0085999" method="POST">
+    <div class="form-group">
+      <div class="form-row">
+        <div class="col">
+          <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+        </div>
+        <div class="col">
+          <input type="email" name="email" class="form-control" placeholder="Email Address" required>
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+      <textarea placeholder="Your Message" class="form-control" name="message" rows="10" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-lg btn-dark btn-block">Submit Form</button>
+  </form>
+</div>
 
