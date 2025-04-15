@@ -40,7 +40,7 @@ If you're looking for **strategic data guidance in a health-related field**, let
 
 Get in touch today to discuss your strategic data needs.
 
-<div class="container">
+<div class="container" id="contact">
   <h1>Get in touch</h1>
   <form target="_blank" action="https://formsubmit.co/4f001a9f0be62a0a7683124fc0085999" method="POST">
     <div class="form-group">
